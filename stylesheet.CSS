@@ -1,0 +1,16 @@
+body { 
+ background-color: black;
+ color: azure;
+ text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+.yo {
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    border: solid azure 10px;
+    border-radius: 10px;
+}

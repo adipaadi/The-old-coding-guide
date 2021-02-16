@@ -1,0 +1,10 @@
+body {
+    background-color: darkcyan;
+    color: lavender;
+    font-family: 'Times New Roman', Times, serif;
+    color: tan;
+    animation-name: backdiv;
+    border: solid rgb(69, 47, 151) 15px;
+    border-radius: 5px;
+
+}
